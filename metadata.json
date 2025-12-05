@@ -1,0 +1,5 @@
+
+{
+  "name": "Superconductor Identifier",
+  "description": "An application that provides detailed information about superconductors, including their type, critical temperature, and description, using the Gemini API."
+}
